@@ -1,9 +1,15 @@
 {
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
+<<<<<<< HEAD
     "source.fixAll.eslint": true,
     "source.fixAll.tslint": true,
     "source.organizeImports": true
+=======
+    "source.fixAll": true,
+    "source.fixAll.eslint": true,
+    "source.organizedImports": true
+>>>>>>> 0693b64e0b7091181a3a8abd09e5350344012238
   },
   "javascript.validate.enable": false,
   "typescript.validate.enable": false

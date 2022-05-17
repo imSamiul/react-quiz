@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import "../styles/App.css";
 import Layout from "./Layout";
@@ -23,4 +24,13 @@ function App() {
   );
 }
 
+=======
+function App() {
+  return (
+    <div>
+      <h1>Hello World</h1>
+    </div>
+  );
+}
+>>>>>>> 0693b64e0b7091181a3a8abd09e5350344012238
 export default App;
